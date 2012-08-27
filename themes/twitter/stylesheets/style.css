@@ -38,7 +38,6 @@ html, body {
 /* posts index */
 .post > h3.title {
   position:relative;
-  padding-top:10px;
   padding-bottom:10px;
 }
 .post > h3.title span.date { 
