@@ -9,7 +9,7 @@ base_path : /~siva/whizkey/
 
 posts:
   permalink: /:categories/:title/
-  summary_lines: 1
+  summary_lines: 10
 #  latest: 10
 
 pages:
