@@ -1,26 +1,32 @@
 ---
-title: Home
+title: Fall 2012
 description:
 ---
 
+<!--
 <h2>Start</h2>
 <p>
   Ruhoh is all about the command-line.
   <br>Check out the goods:
 </p>
-<pre><code>$ ruhoh help</code></pre>
+<pre><code>$ ruhoh help</code></pre> 
+<h2>Fall 2012</h2>
+-->
 
-
-<h2>Latest Posts</h2>
+<h3> Usual spacetime coordinates: RLM 9.222, Sundays 2:30pm </h3>
 
 {{# posts_latest }}
 <div class="post">
-  <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
+  <h3 class="title"><a href="{{url}}">{{title}}</a>, <span class="speaker" style="color:#aaa"> {{ speaker }} </span> <span class="date">{{ date }}</span></h3>
 
   {{{ summary }}}
 
+<!--
   <div class="more">
-    <a href="{{url}}" class="btn">read more..</a>
+    <a href="{{url}}">read more..</a>
   </div>
+-->
+
 </div>
+
 {{/ posts_latest }}
