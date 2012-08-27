@@ -3,13 +3,14 @@ layout : default
 ---
 <div class="page-header">
   <h1>{{ page.title }} {{# page.tagline }} <small>{{ . }}</small>{{/ page.tagline }}</h1>
+  <h3 style="color: #aaa"> {{ page.speaker }} </h3>
 </div>
 
 <div class="row">
   <div class="span8">
     {{{ content }}}
     <hr>
-    <div class="pagination">
+    <div class="pagination" align="center">
       <ul>
         <ul>
           {{# page?previous }}
@@ -31,7 +32,6 @@ layout : default
       </ul>
     </div>
     <hr>
-    {{{ comments }}}
   </div>
   
   <div class="span4">
