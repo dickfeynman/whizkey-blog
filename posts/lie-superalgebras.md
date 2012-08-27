@@ -3,7 +3,7 @@ title:
 date: '2012-08-26'
 speaker: Siva
 description: 
-categories: ['fall-12']
+categories: ['fall-2012']
 tags: []
 
 type: 
