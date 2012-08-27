@@ -1,16 +1,15 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Wizkey Seminar
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Wizkey seminar group
+#  email : blah@email.test
+#  github : username
+#  twitter : username
+#  feedburner : feedname
 
 navigation :
-  - archive.html
-  - tags.html
-  - categories.html
-  - pages.html
   - about.md
+  - archive.html
+#  - tags.html
+  - categories.html
+#  - pages.html
   
