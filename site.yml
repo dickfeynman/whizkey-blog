@@ -6,9 +6,13 @@ author :
 #  twitter : username
 #  feedburner : feedname
 
+#hack to get the site logo pointing correctly
+home_url : http://www.ph.utexas.edu/~siva/whizkey/
+
 navigation :
   - about.md
   - archive.html
+  - calendar.html
 #  - tags.html
 #  - categories.html
 #  - pages.html
