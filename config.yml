@@ -3,8 +3,8 @@
 
 RuhohSpec: '1.0'
 theme : twitter
-production_url : http://www.ph.utexas.edu/~siva/wizkey/ 
-base_path : /~siva/wizkey/
+production_url : http://www.ph.utexas.edu/~siva/whizkey/ 
+base_path : /~siva/whizkey/
 
 
 posts:
