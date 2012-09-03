@@ -8,3 +8,5 @@ tags: [dan]
 
 type: 
 ---
+
+A discussion on the hydrogen atom and harmonic oscillator problems in 3 (space) dimensions and special symmetries which renders these systems completely solvable.
