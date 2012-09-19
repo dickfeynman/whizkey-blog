@@ -8,3 +8,5 @@ tags: [phuc]
 
 type:
 ---
+
+Killing vector fields are generators of symmetry in differential geometry and provide an invariant way to characterize solutions of the Einstein's Field Equations. We will also briefly survey the related results known as the Bianchi classification and Frobenius theorem.
