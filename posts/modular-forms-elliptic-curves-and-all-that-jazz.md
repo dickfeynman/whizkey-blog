@@ -1,6 +1,6 @@
 ---
 title: 
-date: '2012-09-30'
+date: '2012-09-30, 10-07'
 speaker: Manasvi 
 description: 
 categories: ['fall-2012']
@@ -15,3 +15,5 @@ If time permits (or more likely in a second talk) we will connect these up with 
 
 ### References 
 TBA at the talk
+
+1. For a simple and concise introduction to elliptic curves [TWF-13](http://math.ucr.edu/home/baez/week13.html)
