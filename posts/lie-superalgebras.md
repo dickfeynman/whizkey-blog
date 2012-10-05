@@ -9,7 +9,7 @@ tags: [siva]
 type: 
 ---
 
-An introduction to Lie superalgebras and a discussion on the orthosymplectic `osp(m|n)` and special linear `sl(m|n)`  cases. 
+An introduction to Lie superalgebras and a discussion on the orthosymplectic $osp(m|n)$ and special linear $sl(m|n)$  cases. 
 
 ### References
 1. Intro to Supersymmetry (Cambridge Monographs on Mathematical Physics), Peter Freund
