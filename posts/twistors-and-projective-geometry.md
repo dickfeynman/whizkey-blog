@@ -1,6 +1,6 @@
 ---
 title:
-date: '2012-10-07'
+date: '2012-10-14'
 speaker: Gil 
 description: 
 categories: ['fall-2012']
