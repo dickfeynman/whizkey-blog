@@ -1,7 +1,7 @@
 ---
 title:
-date: '0000-00-00'
-speaker: Gil (date TBA) 
+date: 
+speaker: Gil
 description: 
 categories: ['fall-2012']
 tags: [Gil]
