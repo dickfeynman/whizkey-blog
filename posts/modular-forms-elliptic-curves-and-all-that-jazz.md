@@ -1,6 +1,6 @@
 ---
 title: Modular forms, elliptic curves and all that jazz 
-date: '2012-09-30, 10-07'
+date: '2012-09-30, 10-07, 10-14, 11-05'
 speaker: Manasvi 
 description: 
 categories: ['fall-2012']
