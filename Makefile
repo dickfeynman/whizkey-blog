@@ -8,9 +8,16 @@ compile:
 	ruhoh compile
 #	cp compiled/rss.xml $(OUTPUTDIR)
 
-upload: 
+upload:
 	scp -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
-	@echo "Done uploading."
+	@echo "Done uploading to Physics department webspace."
+
+ph: 
+	ruhoh compile
+	rsync -av --human-readable --delete --partial --progress  $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+	@echo "Done uploading to Physics department webspace."
+
+
 
 #rsync -vhP compiled/\~siva/wizkey/*  siva@linux2.ph.utexas.edu:~/public_html/whizkey/
 
