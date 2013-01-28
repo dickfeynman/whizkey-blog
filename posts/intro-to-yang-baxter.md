@@ -1,5 +1,5 @@
 ---
-title:
+title: Intro to Yang-Baxter
 date: '2013-01-20'
 speaker: Siva
 description:
