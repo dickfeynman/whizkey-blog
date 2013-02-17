@@ -12,7 +12,7 @@ home_url : http://www.ph.utexas.edu/~siva/whizkey/
 navigation :
   - about.md
   - archive.html
-  - calendar.html
+#  - calendar.html
 #  - tags.html
   - semesters.html
 #  - pages.html
